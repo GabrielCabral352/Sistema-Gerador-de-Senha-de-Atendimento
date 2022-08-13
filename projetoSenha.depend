@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660428600 source:c:\users\gabri\onedrive\Área de trabalho\trabalho-pilha\projetosenha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	"fila.h"
+
+1660428427 c:\users\gabri\onedrive\Área de trabalho\trabalho-pilha\projetosenha\fila.h
+
